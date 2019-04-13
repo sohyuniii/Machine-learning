@@ -10,4 +10,6 @@
   - min_samples_leaf : leaf가 되기 위한 최소한의 샘플 데이터 수
   - max_features : 고려할 최대 피처 갯수 (default None-모든피처사용)
   - max_depth : 트리의 최대 깊이, 깊어질수록 과적합(default None)
-- **실습 : [Human Activity Recognition](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)**
+- **Data : [Human Activity Recognition](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)**
+  - 30명에게 스마트폰 센서를 장착한 뒤 사람의 동작과 관련된 여러 가지 피처를 수집한 데이터
+  - 사용자 행동인식 데이터에 대한 예측분류
