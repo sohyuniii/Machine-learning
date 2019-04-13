@@ -1,5 +1,5 @@
 # Chapter4. 분류
-## [4.2 Decision Tree](https://github.com/sohyuniii/Machine-learning/blob/master/4%EC%9E%A5_Classification/4.1%20Decision-Tree.ipynb)
+## [4.1 Decision Tree](https://github.com/sohyuniii/Machine-learning/blob/master/4%EC%9E%A5_Classification/4.1%20Decision-Tree.ipynb)
 - 데이터에 있는 규칙을 학습을 통해 자동으로 찾아낸 트리 기반의 분류 규칙을 만드는 것
 - decision node는 규칙조건/ leaf node는 결정된 클래스 -> 트리가 깊어질수록 예측 성능이 저하될 가능성이 높다.
 - 균일도 측정 방법 
@@ -10,4 +10,4 @@
   - min_samples_leaf : leaf가 되기 위한 최소한의 샘플 데이터 수
   - max_features : 고려할 최대 피처 갯수 (default None-모든피처사용)
   - max_depth : 트리의 최대 깊이, 깊어질수록 과적합(default None)
-  
+- **실습 : [Human Activity Recognition](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)**
