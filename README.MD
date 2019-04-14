@@ -6,7 +6,7 @@
 - Chap1. 파이썬 기반의 머신러닝과 생태계 이해
 - Chap2. 사이킷런으로 시작하는 머신러닝
 - Chap3. 평가
-- [Chap4. 분류]()
+- [Chap4. 분류](https://github.com/sohyuniii/Machine-learning/tree/master/4%EC%9E%A5_Classification)
 - Chap5. 회귀
 - Chap6.  차원 숙소
 - Chap7. 군집화
