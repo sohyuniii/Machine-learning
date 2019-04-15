@@ -13,3 +13,10 @@
 - **Data : [Human Activity Recognition](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)**
   - 30명에게 스마트폰 센서를 장착한 뒤 사람의 동작과 관련된 여러 가지 피처를 수집한 데이터
   - 사용자 행동인식 데이터에 대한 예측분류
+
+## [4.2 Ensemble]()
+- 여러 개의 분류기(Classifier)를 생성하고 그 예측을 결합함으로써 보다 정확한 최종 예측을 도출하는 기법
+- 앙상블 학습유형
+  - Voting : 서로 다른 알고리즘을 가진 분류기를 결합
+  - Bagging
+  - Boosting
