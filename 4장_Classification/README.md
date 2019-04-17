@@ -19,3 +19,5 @@
     - [**Random Forest**](https://github.com/sohyuniii/Machine-learning/blob/master/4%EC%9E%A5_Classification/4.2.2%20RandomForest.ipynb) : 기반 알고리즘은 decision tree, subset 데이터는 bootstrapping로 데이터 분리
   - **Boosting** : 여러 개의 분류기가 순차적으로 학습을 수행하되, 앞에서 학습한 분류기가 예측이 틀린 데이터에 대해서는 다음 분류기에게는 가중치를 부여하면서 학습과 예측을 진행 
     - [**GBM**]() : 가중치 없데이트를  경사 하강법(Gradient Descent)사용, 랜포에 비해 성능이 좋을 때가 많지만 수행 시간이 오래 걸린다.
+    - [**XGBoost**]() : GBM 기반의 알고리즘, 빠른 수행 시간과 과적합 규제가 장점
+    - [**LightGMB**]() : XGBoost보다 수행 시간이 짧고 메모리 사용량도 상대적으로 작지만 과적합 가능성 
