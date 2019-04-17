@@ -21,3 +21,4 @@
     - [**GBM**]() : 가중치 없데이트를  경사 하강법(Gradient Descent)사용, 랜포에 비해 성능이 좋을 때가 많지만 수행 시간이 오래 걸린다.
     - [**XGBoost**]() : GBM 기반의 알고리즘, 빠른 수행 시간과 과적합 규제가 장점
     - [**LightGMB**]() : XGBoost보다 수행 시간이 짧고 메모리 사용량도 상대적으로 작지만 과적합 가능성 
+![1_OGb9laCoBQrhVR19WaG7ZA](https://user-images.githubusercontent.com/41772329/56281217-09699f00-6147-11e9-88f4-9fbd2785a352.jpeg)
