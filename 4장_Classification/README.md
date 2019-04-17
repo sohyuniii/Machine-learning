@@ -17,4 +17,5 @@
     - Soft Voting : 분류기들의 결정 확률을 모두 더하고 이를 평균해서 확률이 가장 높은 레이블 값을 최종 보팅 
   - **Bagging** : 각각의 분류기가 모두 같은 유형의 알고리즘 기반이지만, 데이터 샘플링을 서로 다르게 가져가면서 학습을 수행해 보팅을 수행하는 것 
     - [**Random Forest**](https://github.com/sohyuniii/Machine-learning/blob/master/4%EC%9E%A5_Classification/4.2.2%20RandomForest.ipynb) : 기반 알고리즘은 decision tree, subset 데이터는 bootstrapping로 데이터 분리
-  - **Boosting** : 여러 개의 분류기가 순차적으로 학습을 수행하되, 앞에서 학습한 분류기가 예측이 틀린 데이터에 대해서는 다음 분류기에게는 가중치를 부여하면서 학습과 예측을 진행 (ex : XGBoost, LightGBM)
+  - **Boosting** : 여러 개의 분류기가 순차적으로 학습을 수행하되, 앞에서 학습한 분류기가 예측이 틀린 데이터에 대해서는 다음 분류기에게는 가중치를 부여하면서 학습과 예측을 진행 
+    - [**GBM**]() : 가중치 없데이트를  경사 하강법(Gradient Descent)사용, 랜포에 비해 성능이 좋을 때가 많지만 수행 시간이 오래 걸린다.
