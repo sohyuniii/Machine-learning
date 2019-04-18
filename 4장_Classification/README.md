@@ -27,7 +27,7 @@
 
 ## Kaggle
 - **Santander Customer Satisfaction [Data](https://www.kaggle.com/c/santander-customer-satisfaction/data)**
-  - goal : 370개의 피처로 주어진 데이터셋 기반에서 고객 만족 여부 예측 (TARGET : 1-불만을가진고객 / 0-만족한고객)
+  - goal : 370개의 피처, 고객 만족 여부 예측 (TARGET : 1-불만을가진고객 / 0-만족한고객)
   - 불만족 비율이 0.04로 값이 치우져있기 때문에 *ROC-AUC*(ROC 곡선 영역)로 모델 성능 평가
   - results (parameter tuning 전->후)
     - XGBoost : 0.8419 -> 0.8438
