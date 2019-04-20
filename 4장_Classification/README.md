@@ -33,3 +33,5 @@
     - XGBoost : 0.8419 -> 0.8438
     - LightGBM : 0.8396 -> 0.8442
  - **Credit Card Fraud Detection [Data](https://www.kaggle.com/mlg-ulb/creditcardfraud)**
+  - goal : 31개의 피처, 사기예측 (Class : 1-사기)
+  - 전체 데이터의 약 0.172%만 Class=1 -> 불균형 
