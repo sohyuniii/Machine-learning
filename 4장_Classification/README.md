@@ -32,6 +32,7 @@
   - results (parameter tuning 전->후)
     - XGBoost : 0.8419 -> 0.8438
     - LightGBM : 0.8396 -> 0.8442
- - **Credit Card Fraud Detection [Data](https://www.kaggle.com/mlg-ulb/creditcardfraud)**
+- **Credit Card Fraud Detection [Data](https://www.kaggle.com/mlg-ulb/creditcardfraud)**
   - goal : 31개의 피처, 사기예측 (Class : 1-사기)
-  - 전체 데이터의 약 0.172%만 Class=1 -> 불균형 
+  - 전체 데이터의 약 0.172%만 Class=1 -> 불균형 데이터
+    - SMOTE : 적은 데이터셋에 있는 개별 데이터들의 K 최근접 이웃을 찾아 이 데이터와 K개 이웃들의 차이를 일정 값으로 만들어서 기존 데이터와 약간 차이가 나는 새로운 데이터들을 생성하는 방식
