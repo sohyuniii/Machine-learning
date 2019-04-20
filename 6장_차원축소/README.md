@@ -7,6 +7,6 @@
   - 기존 피처를 저차원의 중요 피처로 압축해서 추출하는 것
   - 단순압축이 아닌, 피처를 함축적으로 더 잘 설명할 수 있는 또다른 공간으로 매핑하여 추출 -> 잠재적인 요소 추출 
   
-## **[6.1 PCA(Principal Component Analysis)](https://github.com/sohyuniii/Machine learning/blob/master/6%EC%9E%A5_%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/6.1%20PCA.ipynb)**
+## [6.1 PCA(Principal Component Analysis)]()
 - 여러 변수 간에 존재하는 상관관계를 이용해 이를 대표하는 주성분을 출해 차원을 축소
 - 가장 높은 분산을 가지는 데이터의 축을 찾아 이 축으로 차원을 축소
