@@ -13,3 +13,4 @@
 
 ## [6.2 LDA](https://github.com/sohyuniii/Machine-learning/blob/master/6%EC%9E%A5_%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/6.2%20LDA(Linear%20Discriminant%20Analysis).ipynb)
 
+## Default of credit card clients [Data](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
