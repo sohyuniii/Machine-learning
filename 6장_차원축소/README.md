@@ -10,3 +10,6 @@
 ## [6.1 PCA(Principal Component Analysis)]()
 - 여러 변수 간에 존재하는 상관관계를 이용해 이를 대표하는 주성분을 출해 차원을 축소
 - 가장 높은 분산을 가지는 데이터의 축을 찾아 이 축으로 차원을 축소
+
+## [6.2 LDA](https://github.com/sohyuniii/Machine-learning/blob/master/6%EC%9E%A5_%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/6.2%20LDA(Linear%20Discriminant%20Analysis).ipynb)
+
