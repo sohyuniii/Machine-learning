@@ -23,3 +23,10 @@
   - 원본 행렬 내의 모든 원소 값이 모두 양수일 때 사용
 
 ## Default of credit card clients [Data](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
+- goal : 다음 달 연체 여부 예측 (default payment next month, 1-연체/0-정상납부)
+- 30,000개 obsm 24개 features
+- results (n_components=6일때)
+
+    차원 축소 전 | PCA | LDA | SVM
+    -------|-------|------|------
+    62.06% | 79.34% | 71.67% | 77.76%    
