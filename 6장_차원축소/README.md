@@ -15,7 +15,7 @@
 - 클래스 간 분산과 클래스 내부 분산의 비율을 최대화하는 방식으로 차원을 축소
 - 클래스 간분산은 MAX, 클래스 내부의 분산은 MIN
 
-## [6.3 SVD & NMF]()
+## [6.3 SVD & NMF](https://github.com/sohyuniii/Machine-learning/blob/master/6%EC%9E%A5_%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C/6.3%20SVD%20%26%20NMF.ipynb)
 - ***SVD(Singular Value Decomposition)***
   - PCA의 경우 정방행렬만을 고유벡터로 분해할 수 있지만, SVD는 아니여도 가능
 - ***NMF(Non-Negative Matrix Factorization)***
