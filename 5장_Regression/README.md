@@ -8,3 +8,8 @@
 - ***확률적 경사 하강법(stochastic gradient descent)***
   - 일반적으로 경사 하강법은 모든 학습 데이터에 대해 반복적으로 비용함수를 최소화 -> 수행시간 길다
   - 확률적 경사 하강법은 일부 데이터만 이용해 계산
+
+## [5.2 Linear Model](https://github.com/sohyuniii/Machine-learning/blob/master/5%EC%9E%A5_Regression/5.2%20Linear%20Model.ipynb)
+- LinearRegression()을 이용해 성형 회귀 모델 fitting
+- 예측값과 실제 값의 RSS를 최소화해 OLS 추정 방식으로 회귀계수 
+- Boston data를 이용하여 보스턴의 주택 가격 에측 : shape (506,14)
