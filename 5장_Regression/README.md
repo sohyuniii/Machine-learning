@@ -18,3 +18,4 @@
 - ***Bias-Variance Trade off***
   - bias는 잘못된 가정을 했을 때 발생하는 오차, 높은 편향값은 underfitting 문제를 발생 
   - variance는 트레이닝 셋에 내재된 작은 변동 때문에 발생하는 오차, 높은 분산값은 큰 노이즈까지 모델링에 포함시키는 overfitting 문제를 발생 
+<img src="https://user-images.githubusercontent.com/41772329/56736964-62b77b00-67a4-11e9-9b27-1ca75a0e20f6.png" width="90%">
