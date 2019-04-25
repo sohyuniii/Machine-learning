@@ -15,4 +15,6 @@
 - Boston data를 이용하여 보스턴의 주택 가격 에측 : shape (506,14)
 
 ## [5.3 Over&Underfitting](https://github.com/sohyuniii/Machine-learning/blob/master/5%EC%9E%A5_Regression/5.3%20Over%26Underfitting.ipynb)
-- 
+- ***Bias-Variance Trade off***
+  - bias는 잘못된 가정을 했을 때 발생하는 오차, 높은 편향값은 underfitting 문제를 발생 
+  - variance는 트레이닝 셋에 내재된 작은 변동 때문에 발생하는 오차, 높은 분산값은 큰 노이즈까지 모델링에 포함시키는 overfitting 문제를 발생 
