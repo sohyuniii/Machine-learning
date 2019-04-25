@@ -13,3 +13,6 @@
 - LinearRegression()을 이용해 성형 회귀 모델 fitting
 - 예측값과 실제 값의 RSS를 최소화해 OLS 추정 방식으로 회귀계수 
 - Boston data를 이용하여 보스턴의 주택 가격 에측 : shape (506,14)
+
+## [5.3 Over&Underfitting](https://github.com/sohyuniii/Machine-learning/blob/master/5%EC%9E%A5_Regression/5.3%20Over%26Underfitting.ipynb)
+- 
