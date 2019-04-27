@@ -19,3 +19,9 @@
   - bias는 잘못된 가정을 했을 때 발생하는 오차, 높은 편향값은 underfitting 문제를 발생 
   - variance는 트레이닝 셋에 내재된 작은 변동 때문에 발생하는 오차, 높은 분산값은 큰 노이즈까지 모델링에 포함시키는 overfitting 문제를 발생 
 <img src="https://user-images.githubusercontent.com/41772329/56736964-62b77b00-67a4-11e9-9b27-1ca75a0e20f6.png" width="90%">
+
+## [5.4 Regularized Models]()
+- 비용 함수에 alpha값으로 패널티를 부여해 회귀 계수 값의 크기를 감소시켜 과적합을 개선하는 방식을 규제(Regularization)라고 한다.
+- ***L2규제*** : 회귀계수의 제곱에 대해 패널티를 부여하는 방식 => ***Ridge***
+- ***L1규제*** : 회귀계수의 절대값에 대해 패널티를 부여하는 방식 => ***Lasso***
+- L2 규제 + L1 규제 => ***Elastic Net***
