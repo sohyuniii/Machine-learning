@@ -26,6 +26,10 @@
 - ***L1규제*** : 회귀계수의 절대값에 대해 패널티를 부여하는 방식 => ***Lasso***
 - L2 규제 + L1 규제 => ***Elastic Net***
 
-## [5.5 Logistic Regression]()
+## [5.5 Logistic Regression](https://github.com/sohyuniii/Machine-learning/blob/master/5%EC%9E%A5_Regression/5.5%20Logistic%20Regression.ipynb)
 - sigmoid 최적선을 찾고 이 시그모이드 함수의 반환값을 확률로 간주해 확률에 따라 분류를 결정
 - 선형 회귀 방식을 기반으로, 시그모이드 함수를 ㅇ용해 분류를 수행하는 
+
+## [5.6 Regression Tree]()
+- 회귀를 위한 트리를 생성하고 이를 기반으로 회귀 예측
+- 리프 토드에 속한 데이터 값의 평균을 구해 회귀 예측값을 계산
