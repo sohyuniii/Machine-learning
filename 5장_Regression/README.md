@@ -35,9 +35,9 @@
 - 리프 토드에 속한 데이터 값의 평균을 구해 회귀 예측값을 계산
 
 ## Kaggle
-- Bike Sharing Demand [Data](https://www.kaggle.com/c/bike-sharing-demand/data)
+- **Bike Sharing Demand [Data](https://www.kaggle.com/c/bike-sharing-demand/data)**
   - Goal : 자전거 대여 횟수 예측 (count)
   - count 분포가 오른쪽으로 왜곡 -> log 변환
   - 숫자형 카테고리 값 -> 원-핫 인코딩 
   
-- House Prices [Data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+- **House Prices [Data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)**
