@@ -13,7 +13,7 @@
   
   - -1~1의 값을 가지며 1로 가까울 수록근처의 군집과 더 멀리 떨어져 있다는 것을 의미
 
-## [7.3 Mean Shift]()
+## [7.3 Mean Shift](https://github.com/sohyuniii/Machine-learning/blob/master/7%EC%9E%A5_Clustering/7.3%20Mean%20Shift.ipynb)
 - k-means와 비슷하게 중심을 군집의 중심으로 지속적으로 움직이면서 군집화 수행
 - 특정 대역폭(***bandwidth***)을 가지고 중심을 데이터가 모여 있는 밀도가 가장 높은 곳으로 이동
 - bandwidth 값을 작게 할수록 군집 개수가 많아진다.
